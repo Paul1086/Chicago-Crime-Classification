@@ -16,8 +16,8 @@ In this project, machine learning (ML) algorithms were implemented for determini
 * Support Vector Machine (SVM)
 * KMeans clustering (Unsupervised)
 
-The dataset that was used here is mainly an imbalanced dataset. So, like any rare case prediction, implementing ML algorithms to classify crimes is difficult. To deal with the imbalanced dataset, we implemented undersampling, and oversampling technique. The undersampling resulted in a poor performance. 
+The dataset that was used here is an imbalanced dataset (rare class - 3%). So, like any rare case prediction, implementing ML algorithms to classify crimes is difficult. To deal with the imbalanced dataset, undersampling, and oversampling techniquse were implemented. Althogh, the undersampling resulted in a poor performance, oversampling technique with class weight setting worked satisfactorily.  
 
-Throught this notebook, each section is described before the implementation of the codes.
+
 
 
