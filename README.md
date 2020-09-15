@@ -1,6 +1,10 @@
 ## Chicago Crime Classification with Machine Learning
 
 
+## Dataset
+https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie/data
+
+
 ## Programming Platform:
 * Python
 
