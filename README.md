@@ -14,8 +14,8 @@ In this project, machine learning (ML) algorithms were implemented for determini
 <li>K-Nearest Neighbor (KNN)</li>
 <li>Logistic Regression</li>
 <li>Support Vector Machine</li>
-<li>KMeans clustering (Unsupervised)\
-
+<li>KMeans clustering (Unsupervised)
+<ol>
 The dataset that was used here is mainly an imbalanced dataset. So, like any rare case prediction, implementing ML algorithms to classify crimes is difficult. To deal with the imbalanced dataset, we implemented undersampling, and oversampling technique. The undersampling resulted in a poor performance. 
 
 Throught this notebook, each section is described before the implementation of the codes.
