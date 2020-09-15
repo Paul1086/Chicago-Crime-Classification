@@ -10,12 +10,12 @@
 * Machine Learning: Scikit-learn
 
 In this project, machine learning (ML) algorithms were implemented for determining the severity of the crime and, also for classifying the crime. The ML algorithms that were implemented are:
-<ol>
-<li>K-Nearest Neighbor (KNN)</li>
-<li>Logistic Regression</li>
-<li>Support Vector Machine</li>
-<li>KMeans clustering (Unsupervised)
-<ol>
+
+* K-Nearest Neighbor (KNN)
+* Logistic Regression
+* Support Vector Machine (SVM)
+* KMeans clustering (Unsupervised)
+
 The dataset that was used here is mainly an imbalanced dataset. So, like any rare case prediction, implementing ML algorithms to classify crimes is difficult. To deal with the imbalanced dataset, we implemented undersampling, and oversampling technique. The undersampling resulted in a poor performance. 
 
 Throught this notebook, each section is described before the implementation of the codes.
